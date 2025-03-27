@@ -1,0 +1,894 @@
+{
+    "url": "https://www.google.com/maps/search/IT+Consulting+Ottawa",
+    "scraper_name": "google-maps",
+    "results": [
+        {
+            "name": "CapitalTek",
+            "address": [
+                "301 Moodie Dr Unit 109",
+                "Ottawa, ON K2H 9C4",
+                "Kanada"
+            ],
+            "stars": 5,
+            "ratings": 75,
+            "url": "https://www.capitaltek.com/",
+            "type": [
+                "IT-Berater",
+                "Computersupport und -dienste",
+                "Computerreparaturdienst",
+                "Computersicherheitsdienst",
+                "Computerservice"
+            ],
+            "district": "Nepean",
+            "latitude": 45.3264408,
+            "longitude": -75.8336492,
+            "address_line": "CapitalTek, 301 Moodie Dr Unit 109, Ottawa, ON K2H 9C4, Kanada",
+            "open": {
+                "donnerstag": [
+                    "07:00–19:00"
+                ],
+                "freitag": [
+                    "07:00–19:00"
+                ],
+                "samstag": [
+                    "Geschlossen"
+                ],
+                "sonntag": [
+                    "Geschlossen"
+                ],
+                "montag": [
+                    "07:00–19:00"
+                ],
+                "dienstag": [
+                    "07:00–19:00"
+                ],
+                "mittwoch": [
+                    "07:00–19:00"
+                ]
+            },
+            "images": [
+                "https://lh5.googleusercontent.com/p/AF1QipNjZUht1vxF_kaeh-Hgx6zvSxeCpL6mqyx-HYgD=w140-h86-k-no",
+                "https://lh5.googleusercontent.com/p/AF1QipNjZUht1vxF_kaeh-Hgx6zvSxeCpL6mqyx-HYgD=w408-h250-k-no"
+            ]
+        },
+        {
+            "name": "Clever Dog IT Systems",
+            "address": [
+                "2435 Holly Ln #100",
+                "Ottawa, ON K1V 7P2",
+                "Kanada"
+            ],
+            "stars": 5,
+            "ratings": 31,
+            "url": "http://www.cleverdogit.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=10462198202966631178",
+            "type": [
+                "IT-Berater",
+                "Business-Development-Beratung",
+                "Business-to-Business-Dienst",
+                "Computersupport und -dienste",
+                "Computernetzwerk-Service",
+                "Computersicherheitsdienst"
+            ],
+            "district": "Ledbury - Heron Gate - Ridgemont - Ellwood",
+            "latitude": 45.376784,
+            "longitude": -75.63895,
+            "address_line": "Clever Dog IT Systems, 2435 Holly Ln #100, Ottawa, ON K1V 7P2, Kanada",
+            "open": {
+                "donnerstag": [
+                    "08:00–17:00"
+                ],
+                "freitag": [
+                    "08:00–17:00"
+                ],
+                "samstag": [
+                    "Geschlossen"
+                ],
+                "sonntag": [
+                    "Geschlossen"
+                ],
+                "montag": [
+                    "08:00–17:00"
+                ],
+                "dienstag": [
+                    "08:00–17:00"
+                ],
+                "mittwoch": [
+                    "08:00–17:00"
+                ]
+            },
+            "images": [
+                "https://lh5.googleusercontent.com/p/AF1QipOH7fJ4JIsWqhUsq5C3cQdD6c9LkMmTJ7k-2Br4=w152-h86-k-no",
+                "https://lh5.googleusercontent.com/p/AF1QipOH7fJ4JIsWqhUsq5C3cQdD6c9LkMmTJ7k-2Br4=w425-h240-k-no"
+            ]
+        },
+        {
+            "name": "Demand ITS Inc.",
+            "address": [
+                "235 Menten Pl #106",
+                "Ottawa, ON K2H 9C1",
+                "Kanada"
+            ],
+            "stars": 5,
+            "ratings": 10,
+            "url": "https://www.demand-its.com/",
+            "type": [
+                "IT-Berater",
+                "Computersupport und -dienste",
+                "Computersicherheitsdienst",
+                "Medizinischer Transkriptionsdienst",
+                "Telekommunikationsausrüster"
+            ],
+            "district": "Nepean",
+            "latitude": 45.325808699999996,
+            "longitude": -75.8333883,
+            "address_line": "Demand ITS Inc., 235 Menten Pl #106, Ottawa, ON K2H 9C1, Kanada",
+            "open": {
+                "donnerstag": [
+                    "08:00–18:00"
+                ],
+                "freitag": [
+                    "08:00–18:00"
+                ],
+                "samstag": [
+                    "10:00–16:00"
+                ],
+                "sonntag": [
+                    "Geschlossen"
+                ],
+                "montag": [
+                    "08:00–18:00"
+                ],
+                "dienstag": [
+                    "08:00–18:00"
+                ],
+                "mittwoch": [
+                    "08:00–18:00"
+                ]
+            },
+            "images": [
+                "https://lh5.googleusercontent.com/p/AF1QipMH4AETd-nLhyY6MvxcqCHlkwz8KL9gnRRCgkkO=w114-h86-k-no",
+                "https://lh5.googleusercontent.com/p/AF1QipMH4AETd-nLhyY6MvxcqCHlkwz8KL9gnRRCgkkO=w408-h306-k-no"
+            ]
+        },
+        {
+            "name": "NeoLore Networks - Ottawa Managed IT Services Company",
+            "address": [
+                "2781 Lancaster Rd Suite 302",
+                "Ottawa, ON K1B 1A7",
+                "Kanada"
+            ],
+            "stars": 4.9,
+            "ratings": 117,
+            "url": "https://neolore.com/managed-it-services-ottawa/?utm_campaign=gmb",
+            "type": [
+                "IT-Berater",
+                "Computersupport und -dienste",
+                "Computerreparaturdienst",
+                "Computersicherheitsdienst",
+                "Computerservice",
+                "Datenrettungsdienst"
+            ],
+            "district": "Industrial Park",
+            "latitude": 45.3951694,
+            "longitude": -75.60471079999999,
+            "address_line": "NeoLore Networks - Ottawa Managed IT Services Company, 2781 Lancaster Rd Suite 302, Ottawa, ON K1B 1A7, Kanada",
+            "open": {
+                "donnerstag": [
+                    "24 Stunden geöffnet"
+                ],
+                "freitag": [
+                    "24 Stunden geöffnet"
+                ],
+                "samstag": [
+                    "24 Stunden geöffnet"
+                ],
+                "sonntag": [
+                    "24 Stunden geöffnet"
+                ],
+                "montag": [
+                    "24 Stunden geöffnet"
+                ],
+                "dienstag": [
+                    "24 Stunden geöffnet"
+                ],
+                "mittwoch": [
+                    "24 Stunden geöffnet"
+                ]
+            },
+            "images": [
+                "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=YR_pdqWeJB2tFKEPDuiC7w&cb_client=search.gws-prod.gps&w=86&h=86&yaw=339.11023&pitch=0&thumbfov=100",
+                "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=YR_pdqWeJB2tFKEPDuiC7w&cb_client=search.gws-prod.gps&w=408&h=240&yaw=339.11023&pitch=0&thumbfov=100"
+            ]
+        },
+        {
+            "name": "DNSnetworks",
+            "address": [
+                "1600 Laperriere Ave #202",
+                "Ottawa, ON K1Z 8P5",
+                "Kanada"
+            ],
+            "stars": 4.7,
+            "ratings": 47,
+            "url": "https://dnsnetworks.com/",
+            "type": [
+                "Computerservice",
+                "Computersupport und -dienste",
+                "Datenrettungsdienst",
+                "Softwareentwickler/-hersteller"
+            ],
+            "district": "Carlington",
+            "latitude": 45.375840499999995,
+            "longitude": -75.74648169999999,
+            "address_line": "DNSnetworks, 1600 Laperriere Ave #202, Ottawa, ON K1Z 8P5, Kanada",
+            "open": {
+                "donnerstag": [
+                    "08:00–20:00"
+                ],
+                "freitag": [
+                    "08:00–20:00"
+                ],
+                "samstag": [
+                    "Geschlossen"
+                ],
+                "sonntag": [
+                    "Geschlossen"
+                ],
+                "montag": [
+                    "08:00–20:00"
+                ],
+                "dienstag": [
+                    "08:00–20:00"
+                ],
+                "mittwoch": [
+                    "08:00–20:00"
+                ]
+            },
+            "images": [
+                "https://lh5.googleusercontent.com/p/AF1QipMbDwWZERmlqmNL3D6BD7l_aDInWLXtY6lKFXoi=w118-h86-k-no",
+                "https://lh5.googleusercontent.com/p/AF1QipMbDwWZERmlqmNL3D6BD7l_aDInWLXtY6lKFXoi=w408-h297-k-no"
+            ]
+        },
+        {
+            "name": "DM I.T. Consulting Inc.",
+            "address": [
+                "2200 Prince of Wales Dr",
+                "Nepean, ON K2E 6Z9",
+                "Kanada"
+            ],
+            "stars": 5,
+            "ratings": 7,
+            "url": "http://www.dmit.ca/",
+            "type": [
+                "Computerservice",
+                "Computernetzwerk-Service",
+                "Computersupport und -dienste"
+            ],
+            "district": "Nepean",
+            "latitude": 45.330551899999996,
+            "longitude": -75.7020058,
+            "address_line": "DM I.T. Consulting Inc., 2200 Prince of Wales Dr, Nepean, ON K2E 6Z9, Kanada",
+            "open": {
+                "donnerstag": [
+                    "08:30–17:00"
+                ],
+                "freitag": [
+                    "08:30–17:00"
+                ],
+                "samstag": [
+                    "Geschlossen"
+                ],
+                "sonntag": [
+                    "Geschlossen"
+                ],
+                "montag": [
+                    "08:30–17:00"
+                ],
+                "dienstag": [
+                    "08:30–17:00"
+                ],
+                "mittwoch": [
+                    "08:30–17:00"
+                ]
+            },
+            "images": [
+                "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Z99LutzbKmAxrX2G0_icUA&cb_client=search.gws-prod.gps&w=86&h=86&yaw=95.73832&pitch=0&thumbfov=100",
+                "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Z99LutzbKmAxrX2G0_icUA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=95.73832&pitch=0&thumbfov=100"
+            ]
+        },
+        {
+            "name": "BHOK IT Consulting",
+            "address": [
+                "2446 Bank St Suite 325 136",
+                "Ottawa, ON K1V 1A8",
+                "Kanada"
+            ],
+            "stars": 4.5,
+            "ratings": 15,
+            "url": "https://www.studiotax.com/",
+            "type": [
+                "Softwareentwickler/-hersteller"
+            ],
+            "district": "Gloucester",
+            "latitude": 45.3527278,
+            "longitude": -75.6469693,
+            "address_line": "BHOK IT Consulting, 2446 Bank St Suite 325 136, Ottawa, ON K1V 1A8, Kanada",
+            "images": [
+                "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=8mtMA-NKhjqnF6rkvefy4A&cb_client=search.gws-prod.gps&w=86&h=86&yaw=44.152344&pitch=0&thumbfov=100",
+                "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=8mtMA-NKhjqnF6rkvefy4A&cb_client=search.gws-prod.gps&w=408&h=240&yaw=44.152344&pitch=0&thumbfov=100"
+            ]
+        },
+        {
+            "name": "MAM Data IT Consulting Inc.",
+            "address": [
+                "85 Hermes Ave",
+                "Ottawa, ON K4M 0K4",
+                "Kanada"
+            ],
+            "stars": 5,
+            "ratings": 1,
+            "type": [
+                "Informationsservice"
+            ],
+            "district": "Gloucester",
+            "latitude": 45.25879,
+            "longitude": -75.69651,
+            "address_line": "MAM Data IT Consulting Inc., 85 Hermes Ave, Ottawa, ON K4M 0K4, Kanada",
+            "open": {
+                "donnerstag": [
+                    "24 Stunden geöffnet"
+                ],
+                "freitag": [
+                    "24 Stunden geöffnet"
+                ],
+                "samstag": [
+                    "24 Stunden geöffnet"
+                ],
+                "sonntag": [
+                    "Geschlossen"
+                ],
+                "montag": [
+                    "24 Stunden geöffnet"
+                ],
+                "dienstag": [
+                    "24 Stunden geöffnet"
+                ],
+                "mittwoch": [
+                    "24 Stunden geöffnet"
+                ]
+            },
+            "images": [
+                "https://lh5.googleusercontent.com/p/AF1QipPO1svPdo9sVLCaNX2k2mJC6KfeJEe1twVR24I=w114-h86-k-no",
+                "https://lh5.googleusercontent.com/p/AF1QipPO1svPdo9sVLCaNX2k2mJC6KfeJEe1twVR24I=w408-h306-k-no"
+            ]
+        },
+        {
+            "name": "IT Gorilla",
+            "address": null,
+            "stars": 5,
+            "ratings": 6,
+            "url": "http://www.itgorilla.ca/",
+            "type": [
+                "IT-Berater",
+                "Computerreparaturdienst",
+                "Computersupport und -dienste",
+                "Service establishment"
+            ],
+            "district": null,
+            "latitude": 62.6573279,
+            "longitude": -95.989235,
+            "address_line": null,
+            "open": {
+                "donnerstag": [
+                    "09:00–17:00"
+                ],
+                "freitag": [
+                    "09:00–17:00"
+                ],
+                "samstag": [
+                    "09:00–17:00"
+                ],
+                "sonntag": [
+                    "Geschlossen"
+                ],
+                "montag": [
+                    "09:00–17:00"
+                ],
+                "dienstag": [
+                    "09:00–17:00"
+                ],
+                "mittwoch": [
+                    "09:00–17:00"
+                ]
+            },
+            "images": [
+                "https://lh5.googleusercontent.com/p/AF1QipNQSUTgmjWhHWB-Axd1RhMSuFotfJTH7CQwJZM0=w100-h86-k-no",
+                "https://lh5.googleusercontent.com/p/AF1QipNQSUTgmjWhHWB-Axd1RhMSuFotfJTH7CQwJZM0=w408-h349-k-no"
+            ]
+        },
+        {
+            "name": "IT EXPERTS",
+            "address": [
+                "78 George St",
+                "Ottawa, ON K1N 0A8",
+                "Kanada"
+            ],
+            "stars": 4.6,
+            "ratings": 11,
+            "url": "https://it-experts.ca/",
+            "type": [
+                "IT-Berater",
+                "Computersupport und -dienste",
+                "Computersicherheitsdienst",
+                "Internetanbieter",
+                "Telekommunikationsanbieter"
+            ],
+            "district": "Byward Market - Parliament Hill",
+            "latitude": 45.4271487,
+            "longitude": -75.6913114,
+            "address_line": "IT EXPERTS, 78 George St, Ottawa, ON K1N 0A8, Kanada",
+            "open": {
+                "donnerstag": [
+                    "08:00–17:00"
+                ],
+                "freitag": [
+                    "08:00–17:00"
+                ],
+                "samstag": [
+                    "Geschlossen"
+                ],
+                "sonntag": [
+                    "Geschlossen"
+                ],
+                "montag": [
+                    "08:00–17:00"
+                ],
+                "dienstag": [
+                    "08:00–17:00"
+                ],
+                "mittwoch": [
+                    "08:00–17:00"
+                ]
+            },
+            "images": [
+                "https://lh5.googleusercontent.com/p/AF1QipP9HitO2Wsp1KNOqUlmAyLS4kB0mLxrvZ8y2vTB=w281-h86-k-no",
+                "https://lh5.googleusercontent.com/p/AF1QipP9HitO2Wsp1KNOqUlmAyLS4kB0mLxrvZ8y2vTB=w786-h240-k-no"
+            ]
+        },
+        {
+            "name": "Techify Consulting",
+            "address": [
+                "116 Albert St Suite #300",
+                "Ottawa, ON K1P 5G3",
+                "Kanada"
+            ],
+            "stars": 4.5,
+            "ratings": 2,
+            "type": [
+                "IT-Berater"
+            ],
+            "district": "Byward Market - Parliament Hill",
+            "latitude": 45.421379099999996,
+            "longitude": -75.6967568,
+            "address_line": "Techify Consulting, 116 Albert St Suite #300, Ottawa, ON K1P 5G3, Kanada",
+            "open": {
+                "donnerstag": [
+                    "09:00–17:00"
+                ],
+                "freitag": [
+                    "09:00–17:00"
+                ],
+                "samstag": [
+                    "Geschlossen"
+                ],
+                "sonntag": [
+                    "Geschlossen"
+                ],
+                "montag": [
+                    "09:00–17:00"
+                ],
+                "dienstag": [
+                    "09:00–17:00"
+                ],
+                "mittwoch": [
+                    "09:00–17:00"
+                ]
+            },
+            "images": [
+                "https://lh5.googleusercontent.com/p/AF1QipP8CLM8VR50vMZiro_x6xCZcQ-uE0m3-Mpz4tgF=w129-h86-k-no",
+                "https://lh5.googleusercontent.com/p/AF1QipP8CLM8VR50vMZiro_x6xCZcQ-uE0m3-Mpz4tgF=w408-h271-k-no"
+            ]
+        },
+        {
+            "name": "MDCOSS",
+            "address": [
+                "150 Elgin St 10th Floor",
+                "Ottawa, ON K2P 2P8",
+                "Kanada"
+            ],
+            "stars": 4.8,
+            "ratings": 10,
+            "url": "https://mdcoss.io/",
+            "type": [
+                "Computerservice",
+                "Softwareentwickler/-hersteller",
+                "Webdesigner"
+            ],
+            "district": "Byward Market - Parliament Hill",
+            "latitude": 45.4204818,
+            "longitude": -75.69282419999999,
+            "address_line": "MDCOSS, 150 Elgin St 10th Floor, Ottawa, ON K2P 2P8, Kanada",
+            "open": {
+                "donnerstag": [
+                    "08:00–18:00"
+                ],
+                "freitag": [
+                    "08:00–18:00"
+                ],
+                "samstag": [
+                    "10:00–16:00"
+                ],
+                "sonntag": [
+                    "Geschlossen"
+                ],
+                "montag": [
+                    "08:00–18:00"
+                ],
+                "dienstag": [
+                    "08:00–18:00"
+                ],
+                "mittwoch": [
+                    "08:00–18:00"
+                ]
+            },
+            "images": [
+                "https://lh5.googleusercontent.com/p/AF1QipN98empVWScUvXRa8oPWuhhzY4jgwjmBWx9cgIX=w193-h86-k-no",
+                "https://lh5.googleusercontent.com/p/AF1QipN98empVWScUvXRa8oPWuhhzY4jgwjmBWx9cgIX=w540-h240-k-no"
+            ]
+        },
+        {
+            "name": "IT Tech",
+            "address": [
+                "934 Clarkia St",
+                "Ottawa, ON K1T 0Y1",
+                "Kanada"
+            ],
+            "stars": 5,
+            "ratings": 2,
+            "type": [
+                "Softwareentwickler/-hersteller"
+            ],
+            "district": "Gloucester",
+            "latitude": 45.3271261,
+            "longitude": -75.60584589999999,
+            "address_line": "IT Tech, 934 Clarkia St, Ottawa, ON K1T 0Y1, Kanada",
+            "open": {
+                "donnerstag": [
+                    "08:00–17:00"
+                ],
+                "freitag": [
+                    "08:00–17:00"
+                ],
+                "samstag": [
+                    "Geschlossen"
+                ],
+                "sonntag": [
+                    "Geschlossen"
+                ],
+                "montag": [
+                    "08:00–17:00"
+                ],
+                "dienstag": [
+                    "08:00–17:00"
+                ],
+                "mittwoch": [
+                    "08:00–17:00"
+                ]
+            },
+            "images": [
+                "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=0rr50W4qmN-EYSKw8qrmQw&cb_client=search.gws-prod.gps&w=86&h=86&yaw=70.66271&pitch=0&thumbfov=100",
+                "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=0rr50W4qmN-EYSKw8qrmQw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=70.66271&pitch=0&thumbfov=100"
+            ]
+        },
+        {
+            "name": "The Halifax Group",
+            "address": [
+                "190 O'Connor St",
+                "Ottawa, ON K2P 2R3",
+                "Kanada"
+            ],
+            "stars": 5,
+            "ratings": 3,
+            "url": "https://www.halifaxgroup.com/",
+            "type": [
+                "IT-Berater"
+            ],
+            "district": "Centretown",
+            "latitude": 45.4179247,
+            "longitude": -75.6961377,
+            "address_line": "The Halifax Group, 190 O'Connor St, Ottawa, ON K2P 2R3, Kanada",
+            "open": {
+                "donnerstag": [
+                    "08:30–17:00"
+                ],
+                "freitag": [
+                    "08:30–17:00"
+                ],
+                "samstag": [
+                    "Geschlossen"
+                ],
+                "sonntag": [
+                    "Geschlossen"
+                ],
+                "montag": [
+                    "08:30–17:00"
+                ],
+                "dienstag": [
+                    "08:30–17:00"
+                ],
+                "mittwoch": [
+                    "08:30–17:00"
+                ]
+            },
+            "images": [
+                "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=euzQ4ZrNvQYBf8VwPm94Eg&cb_client=search.gws-prod.gps&w=86&h=86&yaw=233.80754&pitch=0&thumbfov=100",
+                "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=euzQ4ZrNvQYBf8VwPm94Eg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=233.80754&pitch=0&thumbfov=100"
+            ]
+        },
+        {
+            "name": "IC 360 Solutions",
+            "address": [
+                "150 Elgin St 10th Floor",
+                "Ottawa, ON K2P 2P8",
+                "Kanada"
+            ],
+            "stars": 5,
+            "ratings": 7,
+            "url": "https://www.ic360.ca/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=11194044180570863636",
+            "type": [
+                "Computersupport und -dienste"
+            ],
+            "district": "Byward Market - Parliament Hill",
+            "latitude": 45.4204818,
+            "longitude": -75.69282419999999,
+            "address_line": "IC 360 Solutions, 150 Elgin St 10th Floor, Ottawa, ON K2P 2P8, Kanada",
+            "open": {
+                "donnerstag": [
+                    "24 Stunden geöffnet"
+                ],
+                "freitag": [
+                    "24 Stunden geöffnet"
+                ],
+                "samstag": [
+                    "24 Stunden geöffnet"
+                ],
+                "sonntag": [
+                    "24 Stunden geöffnet"
+                ],
+                "montag": [
+                    "24 Stunden geöffnet"
+                ],
+                "dienstag": [
+                    "24 Stunden geöffnet"
+                ],
+                "mittwoch": [
+                    "24 Stunden geöffnet"
+                ]
+            },
+            "images": [
+                "https://lh5.googleusercontent.com/p/AF1QipN7KHwFfWDq5B-MmjWIaHRpSc5L566jwBd7UdCX=w120-h86-k-no",
+                "https://lh5.googleusercontent.com/p/AF1QipN7KHwFfWDq5B-MmjWIaHRpSc5L566jwBd7UdCX=w408-h290-k-no"
+            ]
+        },
+        {
+            "name": "Tracc It Solutions",
+            "address": [
+                "530 Laurier Ave W",
+                "Ottawa, ON K1R 5Y9",
+                "Kanada"
+            ],
+            "stars": 5,
+            "ratings": 1,
+            "url": "https://www.vingua.com/ca/locations/ottawa/",
+            "type": [
+                "IT-Berater",
+                "Computersupport und -dienste",
+                "Computernetzwerk-Service",
+                "Computersicherheitsdienst",
+                "Computerservice"
+            ],
+            "district": "Byward Market - Parliament Hill",
+            "latitude": 45.415302999999994,
+            "longitude": -75.7055244,
+            "address_line": "Tracc It Solutions, 530 Laurier Ave W, Ottawa, ON K1R 5Y9, Kanada",
+            "open": {
+                "donnerstag": [
+                    "09:00–20:00"
+                ],
+                "freitag": [
+                    "09:00–20:00"
+                ],
+                "samstag": [
+                    "09:00–20:00"
+                ],
+                "sonntag": [
+                    "Geschlossen"
+                ],
+                "montag": [
+                    "09:00–20:00"
+                ],
+                "dienstag": [
+                    "09:00–20:00"
+                ],
+                "mittwoch": [
+                    "09:00–20:00"
+                ]
+            },
+            "images": [
+                "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=z7ntweTnnW-I0eCZvx0dJw&cb_client=search.gws-prod.gps&w=86&h=86&yaw=315.7119&pitch=0&thumbfov=100",
+                "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=z7ntweTnnW-I0eCZvx0dJw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=315.7119&pitch=0&thumbfov=100"
+            ]
+        },
+        {
+            "name": "Field Effect",
+            "address": [
+                "825 Exhibition Way #207",
+                "Ottawa, ON K1S 5J3",
+                "Kanada"
+            ],
+            "stars": 4.8,
+            "ratings": 13,
+            "url": "https://fieldeffect.com/",
+            "type": [
+                "Computersicherheitsdienst",
+                "Sicherheitsdienst",
+                "Softwareentwickler/-hersteller"
+            ],
+            "district": "Glebe",
+            "latitude": 45.3999045,
+            "longitude": -75.6839549,
+            "address_line": "Field Effect, 825 Exhibition Way #207, Ottawa, ON K1S 5J3, Kanada",
+            "open": {
+                "donnerstag": [
+                    "09:00–17:00"
+                ],
+                "freitag": [
+                    "09:00–17:00"
+                ],
+                "samstag": [
+                    "Geschlossen"
+                ],
+                "sonntag": [
+                    "Geschlossen"
+                ],
+                "montag": [
+                    "09:00–17:00"
+                ],
+                "dienstag": [
+                    "09:00–17:00"
+                ],
+                "mittwoch": [
+                    "09:00–17:00"
+                ]
+            },
+            "images": [
+                "https://lh5.googleusercontent.com/p/AF1QipMffoOVqFO_RDV4h2SgcHkAU3ECSaYTVejJXHXE=w128-h86-k-no",
+                "https://lh5.googleusercontent.com/p/AF1QipMffoOVqFO_RDV4h2SgcHkAU3ECSaYTVejJXHXE=w408-h272-k-no"
+            ]
+        },
+        {
+            "name": "SupportMyMac",
+            "address": [
+                "2450 Lancaster Rd Unit 11",
+                "Ottawa, ON K1B 5N3",
+                "Kanada"
+            ],
+            "stars": 5,
+            "ratings": 19,
+            "url": "https://supportmymac.ca/",
+            "type": [
+                "IT-Berater",
+                "Computersupport und -dienste",
+                "Computernetzwerk-Service",
+                "Computersicherheitsdienst"
+            ],
+            "district": "Hawthorne Meadows - Sheffield Glen",
+            "latitude": 45.4016126,
+            "longitude": -75.6196721,
+            "address_line": "SupportMyMac, 2450 Lancaster Rd Unit 11, Ottawa, ON K1B 5N3, Kanada",
+            "open": {
+                "donnerstag": [
+                    "09:00–17:00"
+                ],
+                "freitag": [
+                    "09:00–17:00"
+                ],
+                "samstag": [
+                    "Geschlossen"
+                ],
+                "sonntag": [
+                    "Geschlossen"
+                ],
+                "montag": [
+                    "09:00–17:00"
+                ],
+                "dienstag": [
+                    "09:00–17:00"
+                ],
+                "mittwoch": [
+                    "09:00–17:00"
+                ]
+            },
+            "images": [
+                "https://lh5.googleusercontent.com/p/AF1QipNel3VwiSUiSc8mRqc3V0Dn4hztPM9JRuAXd_jr=w114-h86-k-no",
+                "https://lh5.googleusercontent.com/p/AF1QipNel3VwiSUiSc8mRqc3V0Dn4hztPM9JRuAXd_jr=w408-h306-k-no"
+            ]
+        },
+        {
+            "name": "I4C Consulting Inc",
+            "address": [
+                "1283 Teron Rd #201",
+                "Kanata, ON K2K 0J7",
+                "Kanada"
+            ],
+            "stars": 5,
+            "ratings": 2,
+            "url": "https://www.i4c.com/",
+            "type": [
+                "IT-Berater",
+                "Business-to-Business-Dienst"
+            ],
+            "district": "Kanata",
+            "latitude": 45.336638699999995,
+            "longitude": -75.9016766,
+            "address_line": "I4C Consulting Inc, 1283 Teron Rd #201, Kanata, ON K2K 0J7, Kanada",
+            "open": {
+                "donnerstag": [
+                    "08:00–17:00"
+                ],
+                "freitag": [
+                    "08:00–17:00"
+                ],
+                "samstag": [
+                    "Geschlossen"
+                ],
+                "sonntag": [
+                    "Geschlossen"
+                ],
+                "montag": [
+                    "08:00–17:00"
+                ],
+                "dienstag": [
+                    "08:00–17:00"
+                ],
+                "mittwoch": [
+                    "08:00–17:00"
+                ]
+            },
+            "images": [
+                "https://lh5.googleusercontent.com/p/AF1QipNDdTWuJXNwb96qni7kXV075_EpEM-aKxekmZZH=w114-h86-k-no",
+                "https://lh5.googleusercontent.com/p/AF1QipNDdTWuJXNwb96qni7kXV075_EpEM-aKxekmZZH=w408-h306-k-no"
+            ]
+        },
+        {
+            "name": "OTTAWA IT CONSULTING INC.",
+            "address": [
+                "386 Grey Seal Cir",
+                "Ottawa, ON K1V 2H5",
+                "Kanada"
+            ],
+            "url": "http://ottawaitconsulting.com/",
+            "type": [
+                "Softwareentwickler/-hersteller"
+            ],
+            "district": "Gloucester",
+            "latitude": 45.2842736,
+            "longitude": -75.6795467,
+            "address_line": "OTTAWA IT CONSULTING INC., 386 Grey Seal Cir, Ottawa, ON K1V 2H5, Kanada",
+            "images": [
+                "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=26OmaABHbm4OtClVnX2O6w&cb_client=search.gws-prod.gps&w=86&h=86&yaw=233.26912&pitch=0&thumbfov=100",
+                "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=26OmaABHbm4OtClVnX2O6w&cb_client=search.gws-prod.gps&w=408&h=240&yaw=233.26912&pitch=0&thumbfov=100"
+            ]
+        }
+    ],
+    "next_page_url": "https://api.scraperapi.com?autoparse=true&url=https%3A%2F%2Fgoogle.com%2Fsearch%3Ftbm%3Dmap%26authuser%3D0%26pb%3D!1sIT%2520Consulting%2520Ottawa!7i20!8i20!10b1!12m39!1m5!18b1!30b1!31m1!1i1!34i1!2m3!5m1!6e2!20e3!4i0!6m12!49b1!63m0!66b1!74i150000!85b1!91b1!114b1!149b1!193i1!206i1!212i1!213i1!10b1!12b1!13b1!14b1!16b1!17m2!3m1!1i1!20m3!5e2!6b1!14b1!46m1!1i0!96i1!19m4!2m3!1i360!2i120!4i8!20m48!2m2!1i203!2i100!3m2!2i4!5b1!6m6!1m2!1i86!2i86!1m2!1i408!2i240!7m33!1m3!1e1!2b0!3e3!1m3!1e2!2b1!3e2!1m3!1e2!2b0!3e3!1m3!1e8!2b0!3e3!1m3!1e10!2b0!3e3!1m3!1e10!2b1!3e2!1m3!1e10!2b0!3e4!1m3!1e9!2b1!3e2!2b1!9b0!22m5!1sZh3lZ--ZOfCehbIPzN_XoQk!7e81!14m1!3sZh3lZ--ZOfCehbIPzN_XoQk!15i9937!24m116!1m29!13m9!2b1!3b1!4b1!6i1!8b1!9b1!14b1!20b1!25b1!18m18!3b1!4b1!5b1!6b1!13b1!14b1!17b1!21b1!22b1!25b1!27m1!1b0!28b0!32b1!33m1!1b1!34i0!36i1!5m5!2b1!5b1!6b1!7b1!10b1!10m1!8e3!11m2!3m1!1i1!14m1!3b0!17b1!20m2!1e3!1e6!24b1!25b1!26b1!29b1!30m1!2b1!36b1!39m3!2m2!2i1!3i1!43b1!52b1!54m1!1b1!55b1!56m1!1b1!65m6!3m5!1m4!1m3!1m2!1i224!2i298!71b1!72m25!1m9!2b1!5b1!7b1!12m5!1i1!2i1!4m2!1m1!1i1!4b1!8m12!1m11!1m7!4m6!1m1!1i1!2m1!1i3!3m1!1i4!3sother_user_google_reviews!6m1!1i1!9b1!89b1!98m3!1i1!2i1!3i1!103b1!113b1!114m3!1i1!2m1!1i1!117b1!122m1!1b1!125b0!126b1!127i1!26m4!2m3!1i80!2i92!4i8!30m28!1m6!1m2!1i0!2i0!2m2!1i530!2i768!1m6!1m2!1i974!2i0!2m2!1i1024!2i768!1m6!1m2!1i0!2i0!2m2!1i1024!2i20!1m6!1m2!1i0!2i748!2m2!1i1024!2i768!34m18!2b1!3b1!4b1!6b1!8m6!1b1!3b1!4b1!5b1!6b1!7b1!9b1!12b1!14b1!20b1!23b1!25b1!26b1!37m1!1e81!42b1!49m10!3b1!6m2!1b1!2b1!7m2!1e3!2b1!8b1!9b1!10i2!50m3!2e2!3m1!3b1!61b1!67m3!7b1!10b1!14b1!69i726%26q%3DIT%2520Consulting%2520Ottawa%26tch%3D0%26ech%3D1"
+}
